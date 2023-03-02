@@ -1,2 +1,5 @@
-# Pokemon-in-C-unfinished-
-An unfinished terminal build of a Pokemon game made from scratch in C++
+READ ME:
+
+Requires the include packages to ruin it on terminal. If not, heavily recommend you use an IDE like Replit to get it to run.
+
+
